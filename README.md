@@ -1,1 +1,1 @@
-"# stock-api" 
+# Simple Stock API
